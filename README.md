@@ -78,7 +78,7 @@ Dado o JSON:
 ````
 Crie uma aplicação que contenha uma lista com os itens declarados acima, essa lista deve apresentar as seguintes informações:
 
-- [ ] O nome da aula;
+- [x] O nome da aula;
 - [ ] A data de criação em dd/MM/yyyy;
 - [ ] O ID da Aula;
 - [ ] Quando a aula estiver completa deve apresentar um ícone de √ em verde;
